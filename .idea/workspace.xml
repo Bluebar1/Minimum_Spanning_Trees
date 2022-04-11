@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e83e766-f055-48c2-ab3b-f422d0f11e46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jQrrhLZ3qmTK8JxKsD8duryUa5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/AlgorithmsHW2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yupni\school\Algorithms\AlgorithmsHW2\out\production\AlgorithmsHW2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DriverMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DriverMST" />
+      <module name="AlgorithmsHW2" />
+      <option name="PROGRAM_PARAMETERS" value="infile.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DriverMST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e83e766-f055-48c2-ab3b-f422d0f11e46" name="Default Changelist" comment="" />
+      <created>1603747356554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603747356554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603824874553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603824874553" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1603752985117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603752985117" />
+    <state width="1877" height="485" key="GridCell.Tab.0.bottom" timestamp="1603893298325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603893298325" />
+    <state width="1037" height="241" key="GridCell.Tab.0.bottom/1920.-431.1080.1880/0.0.1920.1040@1920.-431.1080.1880" timestamp="1603760052588" />
+    <state width="1877" height="485" key="GridCell.Tab.0.center" timestamp="1603893298325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="485" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603893298325" />
+    <state width="1037" height="241" key="GridCell.Tab.0.center/1920.-431.1080.1880/0.0.1920.1040@1920.-431.1080.1880" timestamp="1603760052588" />
+    <state width="1877" height="485" key="GridCell.Tab.0.left" timestamp="1603893298324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="485" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603893298324" />
+    <state width="1037" height="241" key="GridCell.Tab.0.left/1920.-431.1080.1880/0.0.1920.1040@1920.-431.1080.1880" timestamp="1603760052588" />
+    <state width="1877" height="485" key="GridCell.Tab.0.right" timestamp="1603893298325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="485" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603893298325" />
+    <state width="1037" height="241" key="GridCell.Tab.0.right/1920.-431.1080.1880/0.0.1920.1040@1920.-431.1080.1880" timestamp="1603760052588" />
+    <state x="-1177" y="-8" width="1096" height="692" maximized="true" key="dock-window-1" timestamp="1603893951423">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1177" y="-8" width="1096" height="692" maximized="true" key="dock-window-1/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603893951423" />
+    <state x="1866" y="-382" width="1096" height="692" key="dock-window-1/1920.-431.1080.1880/0.0.1920.1040@1920.-431.1080.1880" timestamp="1603760052620" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603748144029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-370.1080.1880/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603748144029" />
+  </component>
+</project>
